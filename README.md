@@ -16,7 +16,7 @@ Skills
 ------
 **Advanced:** HTML, CSS<br>
 **Intermediate:** JavaScript, ColdFusion<br>
-**Basic:** Python, Linux  
+**Basic:** Python, Java, Linux  
 
 Work Experience
 ---------------
