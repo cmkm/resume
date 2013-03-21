@@ -14,8 +14,8 @@ August 2012 - present
 
 Skills
 ------
-**Advanced:** HTML, CSS
-**Intermediate:** JavaScript, ColdFusion
+**Advanced:** HTML, CSS<br>
+**Intermediate:** JavaScript, ColdFusion<br>
 **Basic:** Python, Linux  
 
 Work Experience
