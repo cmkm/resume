@@ -1,7 +1,7 @@
 Cieara Meador
 =============
 
-cmkm@lavabit.com
+me@ciearameador.com
 
 http://www.ciearameador.com/
 
@@ -22,7 +22,7 @@ Work Experience
 ---------------
 
 **Sabre Technologies,** Savannah, GA - _Junior programmer_<br>
-August 2012 - present
+August 2012 - October 2013
 
 > Front-end web development tasks included building client websites from 
 > design mockups, modifying existing websites to meet clients' needs, and 
