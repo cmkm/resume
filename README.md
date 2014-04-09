@@ -9,7 +9,7 @@ Education
 ---------
 
 **Armstrong Atlantic State University**, Savannah, GA<br>
-_Bachelor of Science in Computer Science_ - GPA 3.85<br>
+_Bachelor of Science in Computer Science_ - GPA 3.48<br>
 August 2012 - present
 
 Skills
